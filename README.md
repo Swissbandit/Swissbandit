@@ -4,8 +4,8 @@ The new Readme created with readme.so
 
 
 ## 🚀 About Me
--  👋 Hi, I’m @Swissbandit
-- 👀 I'm a full self thinking thinkerer...
+👋 Hi, I’m @Swissbandit
+👀 I'm a full self thinking thinkerer...
 
 👩‍💻 I'm currently working on... Leveling up my Skills
 
