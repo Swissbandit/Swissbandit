@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @Swissbandit
-- 👀 I’m interested in ... learning it all
-- 🌱 I’m currently learning ... to pull it off
-- 💞️ I’m looking to collaborate on ...RNS and more
-- 📫 How to reach me ...Try sideband/Nomadnet
-
-
 # Github Swissbandit
 
 The new Readme created with readme.so
 
 
 ## 🚀 About Me
-I'm a full self thinking thinkerer...
+-  👋 Hi, I’m @Swissbandit
+- 👀 I'm a full self thinking thinkerer...
 
 👩‍💻 I'm currently working on... Leveling up my Skills
 
@@ -32,20 +26,20 @@ Markdown, Markdeep, Javascript, Typescrypt
 
 
 
-## 🔗 My Links
+## 🔗 My Links 🌱
 [![My Homepage](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://q-apps.org/Swisslibertarian)
 [![My Projects](https://img.shields.io/badge/My_Blog-yellow)](https://q-apps.org/APP/QBLOG)
 [![My Wiki](https://img.shields.io/badge/My_Wiki-Projects-blue)](https://q-apps.org/APP/qwiki/)
 
 
-## 🔗 Other Great ressources
+## 🔗 Other Great ressources 💞️
 
 - https://readme.so/de/editor MD editor
 - https://shields.io/badges    Concise, consistent, and legible badges
 - 
 
 
-## 🔗 Links to projects i work with
+## 🔗 Links to projects i work with 🚀
 
 - [Reticulum Network Stack](reticulum.network)
 - [Qortal decentral Infrastructure](qortal.org)
@@ -55,7 +49,7 @@ Markdown, Markdeep, Javascript, Typescrypt
 
 
 
-## 🛠 Skills
+## 🛠 Skills 👋
 Markdown, Micron, Javascript, HTML, CSS, Typescript
 Reticulum, Qortal, 
 ## Lessons Learned
@@ -64,7 +58,7 @@ What did you learn while building this project?
 What challenges did you face and how did you overcome them?
 
 I have to take it step by step and keep learning
-## Roadmap
+## Roadmap 💬
 
 - Additional Skills building
 
