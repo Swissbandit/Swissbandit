@@ -35,7 +35,7 @@ Markdown, Markdeep, Javascript, Typescrypt
 ## 🔗 My Links
 [![My Homepage](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://q-apps.org/Swisslibertarian)
 [![My Projects](https://img.shields.io/badge/My_Blog-yellow)](https://q-apps.org/APP/QBLOG/Swisslibertarian)
-[![My Wiki](https://img.shields.io/badge/My_Wiki-Projects-blue)](https://q-apps.org/APP/qwiki/Swisslibertarian)
+[![My Wiki](https://img.shields.io/badge/My_Wiki-Projects-blue)]([https://q-apps.org](https://q-apps.org/APP/qwiki/Swisslibertarian)
 
 
 ## 🔗 Other Great ressources
