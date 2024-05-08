@@ -42,7 +42,7 @@ Markdown, Markdeep, Javascript, Typescrypt
 ## 🔗 Links to projects i work with 🚀
 
 - [Reticulum Network Stack](reticulum.network)
-- [Qortal decentral Infrastructure]([www.qortal.org](https://github.com/QortalPlus))
+- [Qortal decentral Infrastructure](www.qortal.org](https://github.com/QortalPlus)
 - [Publii Website builder](https://getpublii.com/)
 
 
